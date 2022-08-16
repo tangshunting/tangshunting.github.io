@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a science teacher in Kunshan Development Zone Experimental Primary School. Before that, I received my Bachelor’s Degree in chemistry at [Yancheng Teachers University](https://www.yctu.edu.cn/) in 2022. My research interests mainly focus on guiding students to explore science and developing their scientific awareness.
+I am a science teacher in Kunshan Development Zone Experimental Primary School. Before that, I received my Bachelor’s Degree in Chemistry at [Yancheng Teachers University](https://www.yctu.edu.cn/) in 2022. My research interests mainly focus on guiding students to explore science and developing their scientific awareness.
 
 <span style="color:#6b5d40">Education</span>
 ----------
