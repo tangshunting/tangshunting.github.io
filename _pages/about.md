@@ -12,8 +12,8 @@ I am a science teacher in Kunshan Development Zone Experimental Primary School. 
 
 <span style="color:#6b5d40">Education</span>
 ----------
-- 09/2022~Now, *Kunshan Development Zone Experimental Primary School*, a science teacher
 - 09/2018~06/2022, *Yancheng Teachers University*, Bachelor of Chemistry
+- 09/2015-06/2018, *Kunshan Development Zone Senior High School*
 
 <span style="color:#6b5d40">Teaching Experience</span>
 --------
