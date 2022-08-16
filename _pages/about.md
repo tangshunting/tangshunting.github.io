@@ -16,8 +16,9 @@ I am a science teacher in Kunshan Development Zone Experimental Primary School. 
 - 09/2018~06/2022, *Yancheng Teachers University*, Bachelor of Chemistry
 
 <span style="color:#6b5d40">Teaching Experience</span>
-- 03/2021~05/2021, Chemistry, Internship Teacher, Zhoushi middle school
 --------
+- 03/2021~05/2021, Chemistry, Internship Teacher, Zhoushi middle school
+
 <!-- 
 **Conference**
 1. **<span style="color:#0b5394">[ICSE'22]</span>Recommending Good First Issues in GitHub OSS Projects. <span style="color:#0b5394">(CCF A)</span>**   
