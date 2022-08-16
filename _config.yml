@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Shunting Tang"
+title                    : "Shunting Tang(汤舜庭)"
 title_separator          : "-"
 name                     : &name "Shunting Tang"
 description              : &description "personal description"
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "tangshunting"
+  name             : "Shunting Tang"
   avatar           : "profile.png"
-  bio              : "A science teacher"
+  bio              : "A science teacher in Kunshan Development Zone Experimental Primary School."
   location         : "Kunshan, China"
   employer         :
   pubmed           : 
   googlescholar    : 
-  email            :
+  email            :  1030855418@qq.com
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
