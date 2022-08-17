@@ -38,7 +38,8 @@ I am a science teacher in Kunshan Development Zone Experimental Primary School. 
 <span style="color:#6b5d40">Awards & Honers</span>
 ---------------
 
-- 2020, Third Class Scholarship for Academic Excellence,Yancheng Teachers University
+- 2020, Scholarship for Academic Excellence,Yancheng Teachers University
+- 2022, Scholarship for Academic Excellence,Yancheng Teachers University
 
 <span style="color:#6b5d40">Hobbies</span>
 ----------------
